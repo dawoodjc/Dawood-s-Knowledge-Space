@@ -1,0 +1,5 @@
+x=input()
+y=input()
+z=input()
+t=input()
+print(int(x)+int(y)+int(z)+int(t))
