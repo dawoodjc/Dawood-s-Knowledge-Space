@@ -37,7 +37,7 @@ while(True):
         print(int(u)/12)
     elif(i=="5"):
         print("enter value in inches ")
-        u=input()
+        u=input()   
         print("inches converted into yard is")
         print(int(u)/36)
     elif(i=="6"):
@@ -46,46 +46,4 @@ while(True):
         print("yard converted into feet is")
         print(int(u)*3)
 
-        print("thank you")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    print("thank you")

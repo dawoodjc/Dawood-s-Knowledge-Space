@@ -1,0 +1,7 @@
+print("_")
+print("|")
+print("_")
+print("|")
+print("_")
+print("_")
+print("_")
