@@ -1,0 +1,9 @@
+z=input()
+x=z
+z=input()
+x=(int(x)+int(z))
+z=input()
+x=(int(x)+int(z))
+z=input()
+x=(int(x)+int(z))
+print(int(x)+int(z))

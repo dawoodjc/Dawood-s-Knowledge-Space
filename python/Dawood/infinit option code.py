@@ -8,8 +8,4 @@ while(True):
         print("kg into g")
         y=input()
         print(int(y)*1000)
-    else:
-        if(int(x)==2):
-            print("g into mg")
-            y=input()
-            print(int(y)/1000)
+        print(int(y)*1000)

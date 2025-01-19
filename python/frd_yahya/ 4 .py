@@ -1,0 +1,5 @@
+print("hey are going to fast universcity")
+input()
+print (" i am going too")
+input()
+print("yes")

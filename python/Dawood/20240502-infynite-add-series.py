@@ -1,3 +1,5 @@
+`       
+Sun 08 Dec 2024 10:17:59 AM PKT 
 p=0
 while(True):
     print("enter num")

@@ -1,0 +1,5 @@
+print("my name is hassan")
+print("I love to go to the school")
+print("and I play with my friend")
+print("and I go to the park")
+print("and I go to the house")

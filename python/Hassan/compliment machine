@@ -1,0 +1,3 @@
+print("faverite hobby")
+x=input()
+print("I love hobby",x,)

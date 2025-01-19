@@ -1,0 +1,5 @@
+print("once upone a time")
+print("I was playing a horror game")
+print("There was a horror doctor")
+print("Then I shutdown the phone")
+print("I go to sleep")
